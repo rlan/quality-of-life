@@ -1,16 +1,16 @@
 ﻿{
   "type": "crafting_shaped",
   "pattern": [
-    "  i",
-    "iWi",
+    "i i",
+    "iAi",
     "i i"
   ],
   "key": {
     "i": {
       "item": "minecraft:iron_ingot"
     },
-    "W": {
-      "tag": "qol:wool"
+    "A": {
+      "item": "minecraft:leather_horse_armor"
     }
   },
   "result": {

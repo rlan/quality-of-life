@@ -2,6 +2,8 @@
 
 This is an opinionated data pack to improve quality of life in vanilla Minecraft single-player gameplay.
 
+See the [wiki](https://github.com/rlan/quality-of-life/wiki) for changes to the vanilla game.
+
 
 ## Prerequisite
 
@@ -15,4 +17,4 @@ See [instructions](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data
 
 ## TODO
 
-- [ ] Screenshots of new recipes.
+See [issues](https://github.com/rlan/quality-of-life/issues). Please make proposals there.
