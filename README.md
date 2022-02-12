@@ -12,7 +12,15 @@ Minecraft Java Edition 1.14 or later.
 
 ## Installation
 
-See [instructions](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack).
+1. Download this repo as a zip.
+2. Install via these [instructions](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack).
+
+Note: installing to a modded game is untested.
+
+
+## Uninstallation
+
+This data pack does not modify any part of the saved game. Only gameplay is modified. To uninstall this data pack, simply undo the changes made during installation, i.e., delete `quality-of-life` folder from the saved game's `datapacks` folder.
 
 
 ## TODO
