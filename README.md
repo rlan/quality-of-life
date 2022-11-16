@@ -1,6 +1,6 @@
 # Quality of Life - A Minecraft Mod
 
-This is an opinionated mod to improve quality of life in vanilla Minecraft single-player gameplay.
+This is an opinionated data pack to improve quality of life in vanilla Minecraft single-player gameplay.
 
 See the [wiki](https://github.com/rlan/quality-of-life/wiki) for changes to the vanilla game.
 
